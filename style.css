@@ -1,0 +1,21 @@
+.darkmode {
+    background-color: darkgrey;
+    color: lightbluesss;
+}
+
+
+.myMessage {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin: 5px;
+}
+
+input {
+    margin: 10px 0;
+    padding: 5px;
+}
+
